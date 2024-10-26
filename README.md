@@ -6,7 +6,7 @@ Création d'un formulaire de type checkout en HTML5, CSS3 et avec Bootstrap.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/formulaire_checkout_bootstrap/
 
 ## Projet développé avec
 
