@@ -32,6 +32,10 @@ form {
     margin: 0 auto;
 }
 
+.form-check {
+    padding-left: 32px;
+}
+
 footer {
     display: flex;
     flex-direction: column;
